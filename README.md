@@ -1,5 +1,3 @@
-# little-help-book-vue
-
 # lhb-vue ("Little Help Book Vue")
 
 This is an attempt to put together existing templates for the Little Help Book using the Vue framework.
