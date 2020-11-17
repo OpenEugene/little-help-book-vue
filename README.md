@@ -1,5 +1,4 @@
 # little-help-book-vue
- Little Help Book using the Vue framework
 
 # lhb-vue ("Little Help Book Vue")
 
